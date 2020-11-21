@@ -1,2 +1,2 @@
 ### Hi 👋
-Site is being constructed, thank you for your patience.
+Here you can find ongoing projects and code snippets.
