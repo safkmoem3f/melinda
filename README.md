@@ -1,5 +1,5 @@
 ### Hi 👋
-Here you can find ongoing projects and code snippets.
+Here you can find ongoing projects and code snippets. Underneath you will find statistics which may or may not interest you.
 
 
 <!-- Stats -->
