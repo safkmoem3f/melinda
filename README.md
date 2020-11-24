@@ -5,5 +5,5 @@ Here you can find ongoing projects and code snippets.
 
 <!-- Links -->
 [![LinkedIn][1.2]][1]
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: linkedin_logo.png
 [1]: https://www.linkedin.com/in/melinda-backstrom/
