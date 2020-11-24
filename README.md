@@ -7,6 +7,6 @@ Here you can find ongoing projects and code snippets.
 [![LinkedIn][1]][2]
 
 
-[1]: <img src="https://raw.githubusercontent.com/safkmoem3f/safkmoem3f/master/linkedin_logo.png" alt="drawing" width="200"/>
+[1]: <img src="https://raw.githubusercontent.com/safkmoem3f/safkmoem3f/master/linkedin_logo.png" width="200"/>
 
 [2]: https://www.linkedin.com/in/melinda-backstrom/
