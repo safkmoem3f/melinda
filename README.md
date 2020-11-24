@@ -1,5 +1,6 @@
-### Hi 👋
-Here you can find ongoing projects and code snippets. Underneath you will find statistics which may or may not interest you.
+### Hi there visitor 👋
+
+Here you can find ongoing projects and code snippets and underneath you will find statistics which may or may not interest you!
 
 
 <!-- Stats -->
